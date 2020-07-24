@@ -45,7 +45,7 @@
       </font>
      </property>
      <property name="title">
-      <string>Grados Centígrados</string>
+      <string> Centígrados</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
@@ -108,7 +108,7 @@
       </font>
      </property>
      <property name="title">
-      <string>Grados Fahrenheit</string>
+      <string> Fahrenheit</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
